@@ -38,28 +38,21 @@ $ ls
 ```
 $ bash t-load.sh
 ```
-```
+
 * Now make sue that you internet connection is on and after that the installation starts automatically
-```
-```
 * After the installation succesfully completes you will see a THANKS text on screen after that a new text appear
-```
-```
 * EXIT FROM TERMUX AFTER 5 SECONDS AND RE-OPEN IT after seeing this just exit from termux and re open it 
-```
-```
-Now you can see a new loading screen of termux and you can feel real hacking terminal Sound+New interface with banner. 
-```
-```
+* Now you can see a new loading screen of termux and you can feel real hacking terminal Sound+New interface with banner. 
+
 To revert/to get back into normal termux mode use this commands
-```
 ```
 cd T-banner
 ```
+```
 ls
 ```
-bash rvt.sh
 ```
+bash rvt.sh
 ```
 
 ### Subscribe our channel on youtube
